@@ -17,9 +17,4 @@ public class Cubes {
 		Scanner sc=new Scanner(System.in);
 		int n=sc.nextInt();
 		System.out.println("Sum of cubes on n number:"+ sum(n));
-		
-		
-		
-	}
-
-}
+	}}
