@@ -9,7 +9,7 @@ public class Cubes {
     	{
     		sum+=i*i*i;
     	}
-    	return sum;
+    	return 0;
     }
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
